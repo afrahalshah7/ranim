@@ -6,3 +6,5 @@ scipy
 soundfile
 noisereduce
 librosa
+flask
+gunicorn
